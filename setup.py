@@ -16,15 +16,15 @@ setup(
     interactive mode to guide penetration testers in both overall
     progress and specific operations.
     """,
-    author="Gelei Deng",
-    author_email="gelei.deng@ntu.edu.sg",
-    maintainer="Gelei Deng",
-    maintainer_email="gelei.deng@ntu.edu.sg",
-    url="https://github.com/GreyDGL/PentestGPT",
+    author="Ali Vafaev, Tomás Bastante",
+    author_email="ali.vafaev@soprasteria.com, tomas.bastante@soprasteria.com",
+    maintainer="Ali Vafaev, Tomás Bastante",
+    maintainer_email="ali.vafaev@soprasteria.com, tomas.bastante@soprasteria.com",
+    url="https://github.com/TomasBastanteFlor/PGPT",
     project_urls=OrderedDict(
         (
-            ("Code", "https://github.com/GreyDGL/PentestGPT"),
-            ("Issue tracker", "https://github.com/GreyDGL/PentestGPT/issues"),
+            ("Code", "https://github.com/TomasBastanteFlor/PGPT"),
+            ("Issue tracker", "https://github.com/TomasBastanteFlor/PGPT"),
         )
     ),
     license="MIT License",
