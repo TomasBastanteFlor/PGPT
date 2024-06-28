@@ -2,7 +2,7 @@
 name = "pentestgpt"
 version = "0.14.0"
 description = "PentestGPT is an LLM-powered penetration testing tool."
-authors = ["Gelei Deng <GELEI.DENG@ntu.edu.sg>"]
+authors = ["ali.vafaev@soprasteria.com, tomas.bastante@soprasteria.com"]
 license = "MIT"
 readme = "README.md"
 
